@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ruoxuan Fu
 
-- 🔭 I’m currently working on real-time rendering for automotive HMI (Human-Machine Interface) and EID (Environment Information Display) with an in-house rendering engine
+- 🔭 I’m currently working on real-time rendering infrastructure for automotive HMI (Human-Machine Interface) and EID (Environment Information Display) systems with an in-house rendering engine
 - 🌟 I'm interested in building high performance graphics and image synthesis systems both on PC and mobile
 - 📫 How to reach me: ruoxuanfu@gmail.com
 
