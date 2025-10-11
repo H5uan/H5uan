@@ -11,20 +11,6 @@
 
 <br>
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="50" alt="Rust" title="Rust"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="50" alt="Unity" title="Unity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" height="50" alt="Unreal" title="Unreal"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Apple_Metal_logo%2C_version_2.svg" height="50" alt="Metal" title="Metal" valign="middle"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vulkan/vulkan-original.svg" height="50" alt="Vulkan" title="Vulkan"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" height="50" alt="OpenGL" title="OpenGL"/>
-</p>
-
-<br>
-
 ### 📊 GitHub Stats
 
 <p align="center">
