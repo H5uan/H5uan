@@ -25,8 +25,8 @@ I'm a Rendering Engineer in the Smart Space team at **Li Auto**, where I build r
 
 **Languages**
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 
 **Graphics & Engines**
 
@@ -36,17 +36,6 @@ I'm a Rendering Engineer in the Smart Space team at **Li Auto**, where I build r
 ![Filament](https://img.shields.io/badge/-Filament-FF6F00?style=flat-square&logo=google&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![H5uan's GitHub stats](https://github-readme-stats.vercel.app/api?username=H5uan&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/H5uan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H5uan&layout=compact&theme=default&hide_border=true)](https://github.com/H5uan)
-
-</div>
 
 ---
 
