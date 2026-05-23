@@ -14,9 +14,9 @@
 
 I'm a Rendering Engineer in the Smart Space team at **Li Auto**, where I build real-time rendering infrastructure for automotive HMI (Human-Machine Interface) systems.
 
-- 🔭 **Current focus:** Real-time rendering, physically based rendering (PBR), graphics optimization
+- 🔭 **Current focus:** ADAS visualization
 - 🌟 **Passion:** High-performance graphics and image synthesis for PC & mobile platforms
-- 💬 **Ask me about:** Graphics programming, rendering engines, game engine architecture, Rust
+- 💬 **Ask me about:** Graphics programming, rendering algorithms
 - 📫 **Contact:** ruoxuanfu@gmail.com
 
 ---
@@ -32,10 +32,8 @@ I'm a Rendering Engineer in the Smart Space team at **Li Auto**, where I build r
 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
-![Metal](https://img.shields.io/badge/-Metal-000000?style=flat-square&logo=apple&logoColor=white)
 ![Filament](https://img.shields.io/badge/-Filament-FF6F00?style=flat-square&logo=google&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
 
 ---
 
