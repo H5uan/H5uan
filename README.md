@@ -14,7 +14,7 @@
 
 I'm a Rendering Engineer in the Smart Space team at **Li Auto**, where I build real-time rendering infrastructure for automotive HMI (Human-Machine Interface) systems.
 
-- 🔭 **Current focus:** ADAS visualization
+- 🔭 **Current focus:** Differentiable Rendering and Differentiable Physics Simulation
 - 🌟 **Passion:** High-performance graphics and image synthesis for PC & mobile platforms
 - 💬 **Ask me about:** Graphics programming, rendering algorithms
 - 📫 **Contact:** ruoxuanfu@gmail.com
